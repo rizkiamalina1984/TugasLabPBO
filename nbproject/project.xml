@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>TugasPBO2</name>
+=======
+            <name>TugasPBO</name>
+>>>>>>> 3c42d27eee94fdafcf9de3db4a2a2a08cdd83165
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
